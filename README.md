@@ -1,4 +1,4 @@
 # markov_chain_generator
-Shitposter based on Markov chain.
+<p>Shitposter based on Markov chain.</p>
 
-AAAAAA still doing it (mb just use existing Markov chain lib?)
+<p>AAAAAA still doing it (mb just use existing Markov chain lib?)</p>
